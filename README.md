@@ -37,6 +37,6 @@ const OPTIONS = {
 
 ## 📌Notas
 
-- Asegúrate de tener una cuenta activa en RapidAPI y suscribirte a la API ip-lookup-threat-detection-api.
+- Asegúrate de tener una cuenta activa en **[RapidAPI](https://rapidapi.com/hub)** y suscribirte a la API ip-lookup-threat-detection-api.
 
 - La API puede tener límites de uso según el plan gratuito o de pago.
